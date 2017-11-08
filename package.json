@@ -1,6 +1,6 @@
 {
   "name": "loopback-component-storage-gridfs",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "loopback storage component",
   "main": "index.js",
   "repository": {
