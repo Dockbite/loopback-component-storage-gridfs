@@ -22,6 +22,7 @@
     "gridfs-stream": "^1.1.1",
     "lodash": "^4.6.1",
     "mongodb": "^2.1.7",
+    "sharp": "^0.18.4",
     "zip-stream": "^1.0.0"
   }
 }
